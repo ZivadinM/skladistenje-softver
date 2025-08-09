@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+kagglehub
+ydata-profiling
+scikit-learn
+xgboost
